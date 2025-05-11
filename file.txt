@@ -1,4 +1,4 @@
-this is demo for git conflict overidding manually
+this is demo for git conflict
 
 this is a sample demo
 
