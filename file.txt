@@ -1,0 +1,5 @@
+this is demo for git conflict
+
+this is a sample demo
+
+this is a demo
