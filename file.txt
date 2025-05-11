@@ -1,0 +1,5 @@
+this is demo for git conflict overrifing in feature branch
+
+this is a sample demo
+
+this is a demo
